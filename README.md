@@ -1,1 +1,1 @@
-welcome to my github portfolio , this repositery is all about my personal information , skills and resume
+ this repositery is all about my personal information , education , skills and resume.
